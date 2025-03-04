@@ -1,10 +1,7 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=matiassargo.matiassargo&" />
+  <!-- Banner Principal -->
+  <img src="https://private-user-images.githubusercontent.com/74038190/242390863-c552be39-25aa-4f5a-8421-54aa11f7131f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDExMTAwNDUsIm5iZiI6MTc0MTEwOTc0NSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA4NjMtYzU1MmJlMzktMjVhYS00ZjVhLTg0MjEtNTRhYTExZjcxMzFmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzA0VDE3MzU0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI1YTRlNTNjYmIyNWY1YmY1ODQ2NGJjMWYzMjExNzE0NGJmNDM5MDg4MDlkNDUyOWRhYTEzOTU5ZWRlMmNhZGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.SEf5SLUHp3UAoWz1t-o3UEv005w1bvYrJkKevEZRCPs" width="100%" alt="Banner" />
 </div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -13,6 +10,17 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
 </div>
+
+###
+
+<div align="center">
+  <!-- Visitor Badge -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=matiassargo.matiassargo&" />
+</div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -75,5 +83,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 </div>
+
+###
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" height="70" alt="fun gif" />
+</div>
+
 
 
