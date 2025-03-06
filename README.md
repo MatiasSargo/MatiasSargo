@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner Principal -->
-  <img src="https://private-user-images.githubusercontent.com/74038190/242390863-c552be39-25aa-4f5a-8421-54aa11f7131f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDExMTAwNDUsIm5iZiI6MTc0MTEwOTc0NSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA4NjMtYzU1MmJlMzktMjVhYS00ZjVhLTg0MjEtNTRhYTExZjcxMzFmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzA0VDE3MzU0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI1YTRlNTNjYmIyNWY1YmY1ODQ2NGJjMWYzMjExNzE0NGJmNDM5MDg4MDlkNDUyOWRhYTEzOTU5ZWRlMmNhZGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.SEf5SLUHp3UAoWz1t-o3UEv005w1bvYrJkKevEZRCPs" width="100%" alt="Banner" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNkeXFwM2pmMWw2aDgyOGt5bDk4bzVhMWF0eWNoamJ3bDQ2Z2JlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KfrkgK7muB1E0c8ufO/giphy.gif" width="80%" alt="Banner" />
 </div>
 
 ###
